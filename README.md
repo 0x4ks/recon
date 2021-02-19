@@ -6,5 +6,5 @@ MITRE ATT&CK breaks this down into discrete tasks which can also be used to red 
 
 This repo is used as a store to collate a number of simple but effective scripts and tools (sources annotated if not made by myself) to assist in this key intelligence gathering stage of cyber operations.
 
-<strong>Key Links</strong>
+<strong>Key Links</strong><br>
 https://github.com/danielmiessler/SecLists.git
