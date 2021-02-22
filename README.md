@@ -8,6 +8,6 @@ This repo is used as a store to collate a number of simple but effective scripts
 
 <strong>Key Links</strong><br>
 https://github.com/danielmiessler/SecLists.git<br>
-http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html<br>
+https://github.com/swisskyrepo/PayloadsAllTheThings<br>
 https://github.com/Ganapati/RsaCtfTool<br>
 https://github.com/ius/rsatool<br>
